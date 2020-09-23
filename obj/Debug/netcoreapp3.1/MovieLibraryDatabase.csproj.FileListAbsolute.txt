@@ -1,0 +1,17 @@
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\bin\Debug\netcoreapp3.1\MovieLibraryDatabase.exe
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\bin\Debug\netcoreapp3.1\MovieLibraryDatabase.deps.json
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\bin\Debug\netcoreapp3.1\MovieLibraryDatabase.runtimeconfig.json
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\bin\Debug\netcoreapp3.1\MovieLibraryDatabase.runtimeconfig.dev.json
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\bin\Debug\netcoreapp3.1\MovieLibraryDatabase.dll
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\bin\Debug\netcoreapp3.1\MovieLibraryDatabase.pdb
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\obj\Debug\netcoreapp3.1\MovieLibraryDatabase.csprojAssemblyReference.cache
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\obj\Debug\netcoreapp3.1\MovieLibraryDatabase.AssemblyInfoInputs.cache
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\obj\Debug\netcoreapp3.1\MovieLibraryDatabase.AssemblyInfo.cs
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\obj\Debug\netcoreapp3.1\MovieLibraryDatabase.csproj.CoreCompileInputs.cache
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\obj\Debug\netcoreapp3.1\MovieLibraryDatabase.dll
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\obj\Debug\netcoreapp3.1\MovieLibraryDatabase.pdb
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\obj\Debug\netcoreapp3.1\MovieLibraryDatabase.genruntimeconfig.cache
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\feign\Desktop\DotNetDb\MovieLibraryDatabase\obj\Debug\netcoreapp3.1\MovieLibraryDatabase.csproj.CopyComplete
